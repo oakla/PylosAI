@@ -68,7 +68,7 @@ class Game {
 	    		requestedColour == 'B') validColour = true;
 	    	if (requestedColour == 'w' || requestedColour == 'W') requestedColour = WHITE;
 	    	if (requestedColour == 'b' || requestedColour == 'B') requestedColour = BLACK;
-	    	else System.out.println("Please try again and enter a valid colour.");
+	    	else System.out.println("Try again and enter a valid colour.");
 	    }
 	    
 	    /* If a valid colour has not been requested, assign the default of WHITE */
