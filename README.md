@@ -1,13 +1,8 @@
 PylosAI
 =======
 
-An AI bot for a board game called Pylos
+An AI bot for a board game called Pylos, written as an 3rd year assessment piece in a Bachelor of Computer Science at UWA.
 
-The code works, but I would not recommend trying to play a game of it for fun. The user interface needs some work.
+The code works, but I would not recommend trying to play a game of it for fun. The user interface needs some work (the UI wasn't part of the assignment).
 
-For a description of the game have a look at the assignment description at on UWA's website or the wikipedia page
-http://teaching.csse.uwa.edu.au/units/CITS4211/Project/12/assignment.html
-https://en.wikipedia.org/wiki/Pylos_(board_game)
-
-I wrote this bot as an assessment item for course I did at the University of Western Australia
-http://teaching.csse.uwa.edu.au/units/CITS4211/Project/12/assignment.html
+For a description of the game itself have a look at the [assignment description](http://teaching.csse.uwa.edu.au/units/CITS4211/Project/12/assignment.html) or the [wikipedia page on the game](https://en.wikipedia.org/wiki/Pylos_(board_game)).
